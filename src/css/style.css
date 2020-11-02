@@ -1,0 +1,234 @@
+html {
+  font-family: sans-serif;
+  width: 100%;
+  overflow-x: hidden;
+
+}
+
+hr{
+  max-width: 90%;
+
+
+}
+
+body {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+  margin-top: 0px;
+}
+
+.itemheader a {
+  color: white !important;
+  outline: none !important;
+  text-decoration: none !important;
+}
+
+.itemheader a:hover {
+  color: lightyellow !important;
+  outline: none !important;
+  text-decoration: none !important;
+}
+
+p {
+  margin-left: 20px;
+}
+
+#header {
+  background-color: #990c00;
+  height: 50px;
+  width: 100%;
+  margin-top: 0;
+  padding-bottom: 20px;
+  padding-top: 10px;
+  padding-right: 30px;
+  position: static;
+  overflow: inherit;
+}
+
+.itemheader {
+  display: inline;
+  font-weight: bolder;
+  float: right;
+  margin-right: 15px;
+  margin-top: 25px;
+  font-size: 20px;
+  color: white !important;
+  outline: none !important;
+  text-decoration: none !important;
+}
+
+#banner {
+  width: 100%;
+  height: 350px;
+  background-image: url(../img/banner.png);
+  padding-top: 30px;
+  resize: none;
+}
+
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+  color: white;
+  font-size: 90px;
+  text-shadow: 2px 2px 5px black;
+}
+
+#acercawrapper {
+  height: 80%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+
+#acerca {
+  margin-left: 20px;
+}
+
+#acercainf {
+  width: 90%;
+  font-size: 25px;
+}
+
+#metas {
+  margin-left: 10px;
+}
+
+#metaswrapper {
+  height: 50%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#metasinf {
+  width: 90%;
+  font-size: 25px;
+}
+
+#apoyar {
+  margin-left: 10px;
+}
+
+#apoyarwrapper {
+  height: 30%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#contactwrapper {
+  background-color: lightgrey;
+  height: 30%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#contacto {
+  margin-left: 10px;
+}
+
+#map {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Perfil {
+  background-color: aqua;
+  height: 256px;
+  width: 256px;
+  border-radius: 60px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.botonera-next {
+  background-color: black;
+  border-radius: 5px;
+  height: 10%;
+  width: 35%;
+  margin-left: auto;
+  margin-right: auto;
+  color: white !important;
+  outline: none !important;
+  text-decoration: none !important;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+}
+
+.boton-artprv {
+  color: white !important;
+  outline: none !important;
+  text-decoration: none !important;
+  background-color: black;
+  border-radius: 10px;
+  width: 30%;
+  height: 30px;
+}
+
+.boton-artprv a:hover {
+  font-weight: bolder;
+  color: lightgoldenrodyellow !important;
+  outline: none !important;
+  text-decoration: none !important;
+}
+
+.botonera-next a {
+  color: white !important;
+  outline: none !important;
+  text-decoration: none !important;
+}
+
+.botonera-next a:hover {
+  color: red !important;
+  outline: none !important;
+  text-decoration: none !important;
+}
+.botonera-next-paginas{
+  display: inline;
+  font-weight: bolder;
+  color: white !important;
+  outline: none !important;
+  text-decoration: none !important;
+
+}
+.paginas-wrapper{
+  width: 90%;
+ margin-left: 5%;
+ margin-right: 5%;
+ padding-inline-start: 0px;
+
+}
+.mapa{
+ width: 60%;
+ margin-left: 20%;
+ margin-right: 20%;
+
+
+}
+
+#footer {
+  background-color: #990c00;
+  position: absolute;
+  width: 100%;
+  height: 20%;
+}
+
+#footerbottom {
+  color: white;
+  font-weight: bolder;
+  float: bottom;
+  margin-left: 40%;
+  margin-top: 25px;
+}
