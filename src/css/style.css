@@ -212,6 +212,8 @@ h1 {
 }
 .mapa{
  width: 60%;
+  min-height: 60%;
+ max-height: 80%;
  margin-left: 20%;
  margin-right: 20%;
 
